@@ -1,0 +1,53 @@
+---------------------------------------------------------------------------                               
+                                README
+---------------------------------------------------------------------------
+
+FOLDERS:
+
+    [1] NN_Training: "all NN Training codes, including the training and 
+                      test datasets and data transformation script"
+
+        Included scripts:
+
+            --> go_Go_NN_Training.m: 
+                    - MAIN code to run to perform NN training
+                    - Where you set NN hyperparameters for training
+
+            --> Train_Artificial_Neural_Network.m:
+                    - Script that actually performs NN training
+                    - Is called from the go_Go_NN_Training.m script)
+
+            --> scale_The_Output_Data.m:
+                    - Transforms the Model Output for NN performance using 
+                          (i) linear transformation
+                         (ii) Box-Cox (power transform)
+                        (iii) Standardization (z-Transformation)
+                    - Is called from the go_Go_NN_Training.m script
+
+            --> forward_propagate.m: 
+                    - performs Forward Propagation on given input data
+                    - each input parameter combination must be in column 
+                      vector form
+                    - will get used whenever using NN for prediction
+
+            --> activation_function.m && act_function_PRIME.m:
+                    - activation function and its derivative
+                    - Note: set to ReLU by default; if switching to Sigmoid,
+                      may need to SUBSTANTIALLY revise hyperparameter selection
+                                    
+    [2] NN_Prediction: codes that use the NN to prediction performance
+            
+            --> Prediction_Tamp_Freq.m:
+                    - predicts performance across the (Tamp,f)-subspace
+                      for constant values of (Hamp/Tamp, lambda, xB*)
+                    - plots speed and power across the subspace
+            
+            --> Prediction_Errors.m:
+                    - performs NN error analysis, i.e., how well the 
+                      NN recovers the training dataset and predicts the 
+                      test dataset.
+                    - provides qualitative plots and error statistics
+                
+            --> scale_Input_Parameters_for_NN.m: 
+                    - scales model input parameters from their actual real 
+                      values to [-1,1] for NN prediction
