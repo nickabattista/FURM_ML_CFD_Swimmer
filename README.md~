@@ -11,13 +11,9 @@ Institution: The College of New Jersey (<a href="https://tcnj.edu/">TCNJ</a>) <b
 
 <H4> Codes that accompany FURM Chapter "Using machine-learning and CFD to understand biomechanics of marine organisms" by NA Battista, AP Hoover, and MK Santiago" </H4>
 
-<H4> Includes: </H4>
+<H4 style="color:red;"> Includes (1) all codes to train, validate, and test a Neural Network, (2) codes to use NN for prediction, and (3) Codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </H4>
 
-<ol type="1">
-   <li> all codes to train, validate, and test a Neural Network, </li>
-   <li> example codes for using trained NN for prediction </li>
-   <li> codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </li>
-</ol>  
+<H4> 
 
 <hr>  </hr>
 
