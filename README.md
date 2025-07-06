@@ -1,6 +1,6 @@
 <hr>  </hr>
 
-<H1> Neural Network & CFD Codes </H1>
+<H1> Neural Network & CFD Swimmer Codes </H1>
 
 <a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="275" width="375" ></a>
 
