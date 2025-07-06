@@ -15,7 +15,7 @@ Institution: The College of New Jersey (<a href="https://tcnj.edu/">TCNJ</a>) <b
 
 <ol type="1">
    <li> all codes to train, validate, and test a Neural Network, </li>
-   <li> example codes for using trained NN for prediction </li>
+   <li> example codes for using the trained NN for performance prediction, and </li>
    <li> codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </li>
 </ol>  
 
