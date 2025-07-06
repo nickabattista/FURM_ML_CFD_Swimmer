@@ -1,6 +1,6 @@
 <hr>  </hr>
 
-<a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="330" width="450" ></a>
+<a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="330" width="450" ></a>
 <H1> NN & CFD Codes </H1>
 
 Author: Nicholas A. Battista, Ph.D. <br>
@@ -11,15 +11,15 @@ Institution: The College of New Jersey (<a href="https://tcnj.edu/">TCNJ</a>) <b
 
 <H4> Codes that accompany FURM Chapter "Using machine-learning and CFD to understand biomechanics of marine organisms" by NA Battista, AP Hoover, and MK Santiago" </H4>
 
-<h3 style="color:red;"> Includes (1) all codes to train, validate, and test a Neural Network, (2) codes to use NN for prediction, and (3) Codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </h3>
+<H4 style="color:red;"> Includes (1) all codes to train, validate, and test a Neural Network, (2) codes to use NN for prediction, and (3) Codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </H4>
 
 
 <hr>  </hr>
 
 
-<H3> IB2d Video Tutorial for Visualizing VTK Data w/ VisIt:</H3>
+<H3> Video Tutorial for Visualizing Swimmer VTK Data w/ VisIt:</H3>
 
-- IB2d Tutorial 4: <a href="https://youtu.be/4D4ruXbeCiQ"> https://youtu.be/4D4ruXbeCiQ </a>  
+- Tutorial: <a href="https://youtu.be/4D4ruXbeCiQ"> https://youtu.be/4D4ruXbeCiQ </a>  
 The basics of visualizing data using open source visualization software called <a href="https://wci.llnl.gov/simulation/computer-codes/visit/"> VisIt </a> (by Lawrence Livermore National Labs), visualizing the Lagrangian Points and Eulerian Data (colormaps for scalar data and vector fields for fluid velocity vectors)
 
 <H4> VisIt Workaround for macOS 11 (Big Sur) and beyond </H4>
