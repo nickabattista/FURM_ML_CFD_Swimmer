@@ -349,12 +349,14 @@ for n=1:numOutputs
     fprintf('  Max ABS Error: %.4f\n', max( errABS(:,1) ) );
     fprintf('  Min ABS Error: %.4f\n', min( errABS(:,1) ) );
     fprintf('  Avg ABS Error: %.4f\n', mean( errABS(:,1) ) );
+    fprintf('  Avg ABS Error: %.4f\n', mean( errABS(:,1) ) );
     fprintf('StDev ABS Error: %.4f\n', std( errABS(:,1) ) );
     fprintf('\n');
     %
     fprintf(' --> RELATIVE PERCENT ERROR  <-- \n');
     fprintf('  Max Percent Error: %.4f\n', max( errREL(:,1) ) );
     fprintf('  Min Percent Error: %.4f\n', min( errREL(:,1) ) );
+    fprintf('  Med Percent Error: %.4f\n', median( errREL(:,1) ) );
     fprintf('  Avg Percent Error: %.4f\n', mean( errREL(:,1) ) );
     fprintf('StDev Percent Error: %.4f\n', std( errREL(:,1) ) );
     fprintf('\n');
