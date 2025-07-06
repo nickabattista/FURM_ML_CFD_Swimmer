@@ -9,7 +9,7 @@ Website: <a href="http://battistn.pages.tcnj.edu"> http://battistn.pages.tcnj.ed
 Department: Mathematics & Statistics (<a href="https://mathstat.tcnj.edu/">TCNJ MATH</a>) <br>
 Institution: The College of New Jersey (<a href="https://tcnj.edu/">TCNJ</a>) <br> 
 
-<H4> Codes that accompany FURM Chapter "Using machine-learning and CFD to understand biomechanics of marine organisms" by NA Battista, AP Hoover, and MK Santiago" </H4>
+<H4> Codes that accompany FURM Chapter "Using machine-learning and CFD to understand biomechanics of marine organisms" by NA Battista, AP Hoover, and MK Santiago. </H4>
 
 <H4> Includes: </H4>
 
