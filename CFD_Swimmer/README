@@ -2,6 +2,20 @@
                                 README
 ---------------------------------------------------------------------------
 
+
+HOW TO RUN A SIMULATION: 
+
+    - run the main2d.m script in the Single_Swimmer_Sim/ folder
+
+HOW TO ANALYZE AND VISUALIZE DATA THAT IS PRODUCED: 
+
+    - run the Swimmer_Analysis.m and Swimmer_Visualization.m scripts, 
+      respectively in the Analyze_Single_Sim_Data/ folder
+
+    - NOTE: can visualize .vtk data that gets produced using open-source
+      visualization software, such as VisIt: 
+      https://visit-dav.github.io/visit-website/index.html
+
 FOLDERS:
 
     [1] Single_Swimmer_Sim: "scripts needed to perform a single swimmer simulation"
