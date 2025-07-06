@@ -1,0 +1,41 @@
+<hr>  </hr>
+
+<a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/README_NN_Swimmer_Image.png" align="right" height="450" width="614" ></a>
+<H1> NN & CFD Codes </H1>
+
+Author: Nicholas A. Battista, Ph.D. <br>
+Email: <a href="mailto:battistn[at]tcnj[.]edu"> battistn[at]tcnj.edu </a> <br>
+Website: <a href="http://battistn.pages.tcnj.edu"> http://battistn.pages.tcnj.edu </a> <br>
+Department: Mathematics & Statistics (<a href="https://mathstat.tcnj.edu/">TCNJ MATH</a>) <br>
+Institution: The College of New Jersey (<a href="https://tcnj.edu/">TCNJ</a>) <br> 
+
+<H4> Codes that accompany FURM Chapter "Using machine-learning and CFD to understand biomechanics of marine organisms" by NA Battista, AP Hoover, and MK Santiago" </H4>
+
+<h3 style="color:red;"> Includes (1) all codes to train, validate, and test a Neural Network, (2) codes to use NN for prediction, and (3) Codes to perform a single swimmer simulation (leveraging the open-source immersed boundary software <a href="https://github.com/nickabattista/IB2d"> IB2d </a>) </h3>
+
+
+<hr>  </hr>
+
+
+<H3> IB2d Video Tutorial for Visualizing VTK Data w/ VisIt:</H3>
+
+- IB2d Tutorial 4: <a href="https://youtu.be/4D4ruXbeCiQ"> https://youtu.be/4D4ruXbeCiQ </a>  
+The basics of visualizing data using open source visualization software called <a href="https://wci.llnl.gov/simulation/computer-codes/visit/"> VisIt </a> (by Lawrence Livermore National Labs), visualizing the Lagrangian Points and Eulerian Data (colormaps for scalar data and vector fields for fluid velocity vectors)
+
+<H4> VisIt Workaround for macOS 11 (Big Sur) and beyond </H4>
+
+-->  Many VisIt users have gotten the following error when trying to open visualization files:
+
+<p align="center"> "The MetaData server running on localhost could not get the file list for the current directory" </p>
+
+--> To circumvent this error, try opening VisIt from the command line. Try the following:
+
+<ol type="1">
+  <li> In your terminal, change directory until you're in the directory you want to open (eg - the viz_IB2d folder) </li>
+  <li> In your terminal, type: /Applications/VisIt.app/Contents/Resources/bin/visit -gui  (or the correct path based to where you installed VisIt) </li>
+</ol>  
+
+<hr> </hr>
+
+
+
