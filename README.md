@@ -1,6 +1,6 @@
 <hr>  </hr>
 
-<a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="330" width="450" ></a>
+<a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="275" width="375" ></a>
 <H1> NN & CFD Codes </H1>
 
 Author: Nicholas A. Battista, Ph.D. <br>
