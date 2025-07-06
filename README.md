@@ -1,7 +1,8 @@
 <hr>  </hr>
 
+<H1> Neural Network & CFD Codes </H1>
+
 <a href="https://github.com/nickabattista/FURM_ML_CFD_Swimmer"><img src="https://github.com/nickabattista/FURM_ML_CFD_Swimmer/blob/main/README_NN_Swimmer_Image.png" align="right" height="275" width="375" ></a>
-<H1> NN & CFD Codes </H1>
 
 Author: Nicholas A. Battista, Ph.D. <br>
 Email: <a href="mailto:battistn[at]tcnj[.]edu"> battistn[at]tcnj.edu </a> <br>
