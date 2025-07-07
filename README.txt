@@ -1,5 +1,9 @@
 ---------------------------------------------------------------------------                               
-                                README
+                               README.txt
+
+        --> Information regarding folders (and subfolders) within 
+            main github repository
+
 ---------------------------------------------------------------------------
 
 FOLDERS:
