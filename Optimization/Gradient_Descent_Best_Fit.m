@@ -40,7 +40,7 @@ alpha = 1e-5;
 %                col 2: y
 %                  row: different data point
 %------------------------------------------------------------
-load('Best_Fit_Example_Data.mat');
+load('Best_Fit_Ex1_Data.mat');
 %
 NSamples = length(XY_Data(:,1)); % # of data samples
 

@@ -27,7 +27,7 @@ function Linear_Least_Squares_Best_Fit()
 %                col 2: y
 %                  row: different data point
 %------------------------------------------------------------
-load('Best_Fit_Example_Data.mat');
+load('Best_Fit_Ex1_Data.mat');
 %
 NSamples = length(XY_Data(:,1)); % # of data samples
     
